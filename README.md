@@ -1,1 +1,2 @@
-# magicvideo.github.io
+# Magic Video beta
+- https://magicvideo.github.io
